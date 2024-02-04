@@ -2,3 +2,4 @@ This is the third file
 Added this line
 Added third line
 Added fourth line
+Added 5
